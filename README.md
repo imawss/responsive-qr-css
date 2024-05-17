@@ -1,2 +1,2 @@
 # responsive-qr-css
-Frontend Mentor Level 1 CSS Challange
+You can check it from the link!
